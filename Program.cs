@@ -2,12 +2,16 @@
 using System.Text.Json;
 using DnsClient;
 using Entities;
+using DotNetEnv;
 
 class Program {
 
-    private static string apikey = "17f72e8af5bd9227f07e58af2208e3df7b887d50";
+     private static string apikey;
     static async Task Main(string[] args)
     {
+        Env.Load();
+        apikey = Env.GetString("API_KEY") ?? "not_exist";
+
         while (true) {
             Console.WriteLine("1 - Get IPs by Domain");
             Console.WriteLine("2 - Get Domains by IP");
