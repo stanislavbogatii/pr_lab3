@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QGREhpH7qak=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Stanislav\\Documents\\C3S2\\PR\\lab3\\pr_lab3\\pr_lab3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Stanislav\\.nuget\\packages\\dnsclient\\1.8.0\\dnsclient.1.8.0.nupkg.sha512"
+  ],
+  "logs": []
+}

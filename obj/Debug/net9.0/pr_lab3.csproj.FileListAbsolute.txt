@@ -1,0 +1,17 @@
+C:\Users\Stanislav\Documents\C3S2\PR\lab3\pr_lab3\bin\Debug\net9.0\pr_lab3.exe
+C:\Users\Stanislav\Documents\C3S2\PR\lab3\pr_lab3\bin\Debug\net9.0\pr_lab3.deps.json
+C:\Users\Stanislav\Documents\C3S2\PR\lab3\pr_lab3\bin\Debug\net9.0\pr_lab3.runtimeconfig.json
+C:\Users\Stanislav\Documents\C3S2\PR\lab3\pr_lab3\bin\Debug\net9.0\pr_lab3.dll
+C:\Users\Stanislav\Documents\C3S2\PR\lab3\pr_lab3\bin\Debug\net9.0\pr_lab3.pdb
+C:\Users\Stanislav\Documents\C3S2\PR\lab3\pr_lab3\obj\Debug\net9.0\pr_lab3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stanislav\Documents\C3S2\PR\lab3\pr_lab3\obj\Debug\net9.0\pr_lab3.AssemblyInfoInputs.cache
+C:\Users\Stanislav\Documents\C3S2\PR\lab3\pr_lab3\obj\Debug\net9.0\pr_lab3.AssemblyInfo.cs
+C:\Users\Stanislav\Documents\C3S2\PR\lab3\pr_lab3\obj\Debug\net9.0\pr_lab3.csproj.CoreCompileInputs.cache
+C:\Users\Stanislav\Documents\C3S2\PR\lab3\pr_lab3\obj\Debug\net9.0\pr_lab3.dll
+C:\Users\Stanislav\Documents\C3S2\PR\lab3\pr_lab3\obj\Debug\net9.0\refint\pr_lab3.dll
+C:\Users\Stanislav\Documents\C3S2\PR\lab3\pr_lab3\obj\Debug\net9.0\pr_lab3.pdb
+C:\Users\Stanislav\Documents\C3S2\PR\lab3\pr_lab3\obj\Debug\net9.0\pr_lab3.genruntimeconfig.cache
+C:\Users\Stanislav\Documents\C3S2\PR\lab3\pr_lab3\obj\Debug\net9.0\ref\pr_lab3.dll
+C:\Users\Stanislav\Documents\C3S2\PR\lab3\pr_lab3\bin\Debug\net9.0\DnsClient.dll
+C:\Users\Stanislav\Documents\C3S2\PR\lab3\pr_lab3\obj\Debug\net9.0\pr_lab3.csproj.AssemblyReference.cache
+C:\Users\Stanislav\Documents\C3S2\PR\lab3\pr_lab3\obj\Debug\net9.0\pr_lab3.csproj.Up2Date
